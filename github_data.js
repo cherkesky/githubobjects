@@ -4406,3 +4406,12 @@ const githubData = [
     }
   }
 ]
+
+
+// Your task it to use your knowledge of accessing property values and array indices to output the commit message for the push event with an id of 8030403992.
+
+// // Start with this
+// console.log(githubData[?].)
+
+console.log("guy")
+console.log(githubData[6].id);
