@@ -4413,5 +4413,4 @@ const githubData = [
 // // Start with this
 // console.log(githubData[?].)
 
-console.log("guy")
-console.log(githubData[6].id);
+console.log(githubData[6].payload.commits[0].message);
